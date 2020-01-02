@@ -42,7 +42,7 @@ export default {
       term: "",
       headers: [
         {
-          text: "姓名",
+          text: "班级",
           align: "left",
           sortable: false,
           value: "name"
